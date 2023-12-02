@@ -1,0 +1,57 @@
+input{
+    width:100%;
+border-radius: 2vw;
+}
+.main{
+margin-top: 2vw;
+    display:flex;
+   
+}
+.sidebar{
+background-color: black;
+color:white;
+width:9vw;
+font-size: 1.3vw;
+padding: 1vw;
+height:40vw;
+}
+.l{
+margin-top: 6vw;
+padding: 0.2vw;
+}
+
+.s{
+    margin: 0.5vw;
+    padding: 0.2vw;
+}
+.I{
+    width:40vw;
+    height:1.5vw;
+}
+.la{
+    font: size 1vw;
+    margin:1vw;
+}
+
+    .form2{
+        width:600px;
+        font-size:20px;
+        margin-left: 15vw;
+        margin-top: 4vw;
+     
+    }
+
+.edi{
+    height: 280px;
+}
+.send{
+    font-size: 1.5vw;
+    margin:2vw;
+    padding: 0.5vw;
+    border-radius: 1vw;
+    color: beige;
+    background-color:rgb(64, 95, 107);
+}
+.send:hover{
+    background-color:rgb(101, 149, 168);
+}
